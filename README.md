@@ -1,0 +1,2 @@
+# Projenin Amacı
+Verilen facebook linklerini md5 şifreleme türü ile şifreleyip url-md5.csv dosyasına kaydedildi , kullanıcılardan alacağımız ay ve yıl tarihi ile ilgili aydaki tüm postları içeren ve by postları resimleyip bot-facebook_{{MY_MONTH}}_7e029b2751a6e0689158450b3936faa7.png olarak kaydedildi ve bu postlardan alınan beğeni,yorum ve paylaşımlar dom klasörünün altındaki csv dosyasına kayıt edildi.Beğeni,yorum ve paylaşımlar html divleri OCR klasörüne resim olarak kaydedildi. 
